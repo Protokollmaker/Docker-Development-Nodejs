@@ -1,0 +1,12 @@
+.dockerignore
+Dockerfile
+node_modules
+.git
+.gitignore
+.env
+docker_dev.sh
+docker_prod.sh
+docker-compose*
+security/video
+security/key_compile.sh
+req.cnf
